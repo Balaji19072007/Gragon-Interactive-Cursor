@@ -1,1 +1,2 @@
-simple code the code and paste it in your vs code or any coding software name it as index.html
+simple copy the code or download the files
+run it and enjoy the feel
